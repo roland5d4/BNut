@@ -2,7 +2,7 @@
   "name": "BNutorious",
   "symbol": "BNUT",
   "description": "The hottest meme token on Solana - Be Nutorious!",
-  "image": "https://example.com/your-image.png",
+  "image": "https://raw.githubusercontent.com/roland5d4/BNut/96e8ffe0463f223578d2ff54a714933cb8eb36d1/DALL%C2%B7E%202024-11-19%2005.33.53%20-%20A%20playful%20and%20cartoonish%20peanut%20character%20with%20a%20confident%20expression%2C%20wearing%20sunglasses%2C%20embodying%20a%20fun%20and%20cool%20vibe.%20The%20peanut%20should%20have%20exagg.webp",
   "attributes": [
     {
       "trait_type": "Category",
@@ -16,8 +16,8 @@
   "properties": {
     "files": [
       {
-        "uri": "https://example.com/your-image.png",
-        "type": "image/png"
+        "uri": "https://raw.githubusercontent.com/roland5d4/BNut/96e8ffe0463f223578d2ff54a714933cb8eb36d1/DALL%C2%B7E%202024-11-19%2005.33.53%20-%20A%20playful%20and%20cartoonish%20peanut%20character%20with%20a%20confident%20expression%2C%20wearing%20sunglasses%2C%20embodying%20a%20fun%20and%20cool%20vibe.%20The%20peanut%20should%20have%20exagg.webp",
+        "type": "image/webp"
       }
     ],
     "category": "image",
