@@ -1,0 +1,31 @@
+{
+  "name": "BNutorious",
+  "symbol": "BNUT",
+  "description": "The hottest meme token on Solana - Be Nutorious!",
+  "image": "https://example.com/your-image.png",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Meme Token"
+    },
+    {
+      "trait_type": "Special Feature",
+      "value": "Hodl Power"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://example.com/your-image.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "8JAsay8HUCBqhvz6Kw168QczL5mK2DAbt3xqZ5TfedRt",
+        "share": 100
+      }
+    ]
+  }
+}
